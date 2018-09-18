@@ -1,0 +1,2272 @@
+fileFormatVersion: 2
+guid: 3cafdfd7b3aff6148afb58cafa289b43
+timeCreated: 1537003513
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Pac-Man Championship Edition - Main Sprites iOS_0
+    21300002: Mobile - Pac-Man Championship Edition - Main Sprites iOS_1
+    21300004: Mobile - Pac-Man Championship Edition - Main Sprites iOS_2
+    21300006: Mobile - Pac-Man Championship Edition - Main Sprites iOS_3
+    21300008: Mobile - Pac-Man Championship Edition - Main Sprites iOS_4
+    21300010: Mobile - Pac-Man Championship Edition - Main Sprites iOS_5
+    21300012: Mobile - Pac-Man Championship Edition - Main Sprites iOS_6
+    21300014: Mobile - Pac-Man Championship Edition - Main Sprites iOS_7
+    21300016: Mobile - Pac-Man Championship Edition - Main Sprites iOS_8
+    21300018: Mobile - Pac-Man Championship Edition - Main Sprites iOS_9
+    21300020: Mobile - Pac-Man Championship Edition - Main Sprites iOS_10
+    21300022: Mobile - Pac-Man Championship Edition - Main Sprites iOS_11
+    21300024: Mobile - Pac-Man Championship Edition - Main Sprites iOS_12
+    21300026: Mobile - Pac-Man Championship Edition - Main Sprites iOS_13
+    21300028: Mobile - Pac-Man Championship Edition - Main Sprites iOS_14
+    21300030: Mobile - Pac-Man Championship Edition - Main Sprites iOS_15
+    21300032: Mobile - Pac-Man Championship Edition - Main Sprites iOS_16
+    21300034: Mobile - Pac-Man Championship Edition - Main Sprites iOS_17
+    21300036: Mobile - Pac-Man Championship Edition - Main Sprites iOS_18
+    21300038: Mobile - Pac-Man Championship Edition - Main Sprites iOS_19
+    21300040: Mobile - Pac-Man Championship Edition - Main Sprites iOS_20
+    21300042: Mobile - Pac-Man Championship Edition - Main Sprites iOS_21
+    21300044: Mobile - Pac-Man Championship Edition - Main Sprites iOS_22
+    21300046: Mobile - Pac-Man Championship Edition - Main Sprites iOS_23
+    21300048: Mobile - Pac-Man Championship Edition - Main Sprites iOS_24
+    21300050: Mobile - Pac-Man Championship Edition - Main Sprites iOS_25
+    21300052: Mobile - Pac-Man Championship Edition - Main Sprites iOS_26
+    21300054: Mobile - Pac-Man Championship Edition - Main Sprites iOS_27
+    21300056: Mobile - Pac-Man Championship Edition - Main Sprites iOS_28
+    21300058: Mobile - Pac-Man Championship Edition - Main Sprites iOS_29
+    21300060: Mobile - Pac-Man Championship Edition - Main Sprites iOS_30
+    21300062: Mobile - Pac-Man Championship Edition - Main Sprites iOS_31
+    21300064: Mobile - Pac-Man Championship Edition - Main Sprites iOS_32
+    21300066: Mobile - Pac-Man Championship Edition - Main Sprites iOS_33
+    21300068: Mobile - Pac-Man Championship Edition - Main Sprites iOS_34
+    21300070: Mobile - Pac-Man Championship Edition - Main Sprites iOS_35
+    21300072: Mobile - Pac-Man Championship Edition - Main Sprites iOS_36
+    21300074: Mobile - Pac-Man Championship Edition - Main Sprites iOS_37
+    21300076: Mobile - Pac-Man Championship Edition - Main Sprites iOS_38
+    21300078: Mobile - Pac-Man Championship Edition - Main Sprites iOS_39
+    21300080: Mobile - Pac-Man Championship Edition - Main Sprites iOS_40
+    21300082: Mobile - Pac-Man Championship Edition - Main Sprites iOS_41
+    21300084: Mobile - Pac-Man Championship Edition - Main Sprites iOS_42
+    21300086: Mobile - Pac-Man Championship Edition - Main Sprites iOS_43
+    21300088: Mobile - Pac-Man Championship Edition - Main Sprites iOS_44
+    21300090: Mobile - Pac-Man Championship Edition - Main Sprites iOS_45
+    21300092: Mobile - Pac-Man Championship Edition - Main Sprites iOS_46
+    21300094: Mobile - Pac-Man Championship Edition - Main Sprites iOS_47
+    21300096: Mobile - Pac-Man Championship Edition - Main Sprites iOS_48
+    21300098: Mobile - Pac-Man Championship Edition - Main Sprites iOS_49
+    21300100: Mobile - Pac-Man Championship Edition - Main Sprites iOS_50
+    21300102: Mobile - Pac-Man Championship Edition - Main Sprites iOS_51
+    21300104: Mobile - Pac-Man Championship Edition - Main Sprites iOS_52
+    21300106: Mobile - Pac-Man Championship Edition - Main Sprites iOS_53
+    21300108: Mobile - Pac-Man Championship Edition - Main Sprites iOS_54
+    21300110: Mobile - Pac-Man Championship Edition - Main Sprites iOS_55
+    21300112: Mobile - Pac-Man Championship Edition - Main Sprites iOS_56
+    21300114: Mobile - Pac-Man Championship Edition - Main Sprites iOS_57
+    21300116: Mobile - Pac-Man Championship Edition - Main Sprites iOS_58
+    21300118: Mobile - Pac-Man Championship Edition - Main Sprites iOS_59
+    21300120: Mobile - Pac-Man Championship Edition - Main Sprites iOS_60
+    21300122: Mobile - Pac-Man Championship Edition - Main Sprites iOS_61
+    21300124: Mobile - Pac-Man Championship Edition - Main Sprites iOS_62
+    21300126: Mobile - Pac-Man Championship Edition - Main Sprites iOS_63
+    21300128: Mobile - Pac-Man Championship Edition - Main Sprites iOS_64
+    21300130: Mobile - Pac-Man Championship Edition - Main Sprites iOS_65
+    21300132: Mobile - Pac-Man Championship Edition - Main Sprites iOS_66
+    21300134: Mobile - Pac-Man Championship Edition - Main Sprites iOS_67
+    21300136: Mobile - Pac-Man Championship Edition - Main Sprites iOS_68
+    21300138: Mobile - Pac-Man Championship Edition - Main Sprites iOS_69
+    21300140: Mobile - Pac-Man Championship Edition - Main Sprites iOS_70
+    21300142: Mobile - Pac-Man Championship Edition - Main Sprites iOS_71
+    21300144: Mobile - Pac-Man Championship Edition - Main Sprites iOS_72
+    21300146: Mobile - Pac-Man Championship Edition - Main Sprites iOS_73
+    21300148: Mobile - Pac-Man Championship Edition - Main Sprites iOS_74
+    21300150: Mobile - Pac-Man Championship Edition - Main Sprites iOS_75
+    21300152: Mobile - Pac-Man Championship Edition - Main Sprites iOS_76
+    21300154: Mobile - Pac-Man Championship Edition - Main Sprites iOS_77
+    21300156: Mobile - Pac-Man Championship Edition - Main Sprites iOS_78
+    21300158: Mobile - Pac-Man Championship Edition - Main Sprites iOS_79
+    21300160: Mobile - Pac-Man Championship Edition - Main Sprites iOS_80
+    21300162: Mobile - Pac-Man Championship Edition - Main Sprites iOS_81
+    21300164: Mobile - Pac-Man Championship Edition - Main Sprites iOS_82
+    21300166: Mobile - Pac-Man Championship Edition - Main Sprites iOS_83
+    21300168: Mobile - Pac-Man Championship Edition - Main Sprites iOS_84
+    21300170: Mobile - Pac-Man Championship Edition - Main Sprites iOS_85
+    21300172: Mobile - Pac-Man Championship Edition - Main Sprites iOS_86
+    21300174: Mobile - Pac-Man Championship Edition - Main Sprites iOS_87
+    21300176: Mobile - Pac-Man Championship Edition - Main Sprites iOS_88
+    21300178: Mobile - Pac-Man Championship Edition - Main Sprites iOS_89
+    21300180: Mobile - Pac-Man Championship Edition - Main Sprites iOS_90
+    21300182: Mobile - Pac-Man Championship Edition - Main Sprites iOS_91
+    21300184: Mobile - Pac-Man Championship Edition - Main Sprites iOS_92
+    21300186: Mobile - Pac-Man Championship Edition - Main Sprites iOS_93
+    21300188: Mobile - Pac-Man Championship Edition - Main Sprites iOS_94
+    21300190: Mobile - Pac-Man Championship Edition - Main Sprites iOS_95
+    21300192: Mobile - Pac-Man Championship Edition - Main Sprites iOS_96
+    21300194: Mobile - Pac-Man Championship Edition - Main Sprites iOS_97
+    21300196: Mobile - Pac-Man Championship Edition - Main Sprites iOS_98
+    21300198: Mobile - Pac-Man Championship Edition - Main Sprites iOS_99
+    21300200: Mobile - Pac-Man Championship Edition - Main Sprites iOS_100
+    21300202: Mobile - Pac-Man Championship Edition - Main Sprites iOS_101
+    21300204: Mobile - Pac-Man Championship Edition - Main Sprites iOS_102
+    21300206: Mobile - Pac-Man Championship Edition - Main Sprites iOS_103
+    21300208: Mobile - Pac-Man Championship Edition - Main Sprites iOS_104
+    21300210: Mobile - Pac-Man Championship Edition - Main Sprites iOS_105
+    21300212: Mobile - Pac-Man Championship Edition - Main Sprites iOS_106
+    21300214: Mobile - Pac-Man Championship Edition - Main Sprites iOS_107
+    21300216: Mobile - Pac-Man Championship Edition - Main Sprites iOS_108
+    21300218: Mobile - Pac-Man Championship Edition - Main Sprites iOS_109
+    21300220: Mobile - Pac-Man Championship Edition - Main Sprites iOS_110
+    21300222: Mobile - Pac-Man Championship Edition - Main Sprites iOS_111
+    21300224: Mobile - Pac-Man Championship Edition - Main Sprites iOS_112
+    21300226: Mobile - Pac-Man Championship Edition - Main Sprites iOS_113
+    21300228: Mobile - Pac-Man Championship Edition - Main Sprites iOS_114
+    21300230: Mobile - Pac-Man Championship Edition - Main Sprites iOS_115
+    21300232: Mobile - Pac-Man Championship Edition - Main Sprites iOS_116
+    21300234: Mobile - Pac-Man Championship Edition - Main Sprites iOS_117
+    21300236: Mobile - Pac-Man Championship Edition - Main Sprites iOS_118
+    21300238: Mobile - Pac-Man Championship Edition - Main Sprites iOS_119
+    21300240: Mobile - Pac-Man Championship Edition - Main Sprites iOS_120
+    21300242: Mobile - Pac-Man Championship Edition - Main Sprites iOS_121
+    21300244: Mobile - Pac-Man Championship Edition - Main Sprites iOS_122
+    21300246: Mobile - Pac-Man Championship Edition - Main Sprites iOS_123
+    21300248: Mobile - Pac-Man Championship Edition - Main Sprites iOS_124
+    21300250: Mobile - Pac-Man Championship Edition - Main Sprites iOS_125
+    21300252: Mobile - Pac-Man Championship Edition - Main Sprites iOS_126
+    21300254: Mobile - Pac-Man Championship Edition - Main Sprites iOS_127
+    21300256: Mobile - Pac-Man Championship Edition - Main Sprites iOS_128
+    21300258: Mobile - Pac-Man Championship Edition - Main Sprites iOS_129
+    21300260: Mobile - Pac-Man Championship Edition - Main Sprites iOS_130
+    21300262: Mobile - Pac-Man Championship Edition - Main Sprites iOS_131
+    21300264: Mobile - Pac-Man Championship Edition - Main Sprites iOS_132
+    21300266: Mobile - Pac-Man Championship Edition - Main Sprites iOS_133
+    21300268: Mobile - Pac-Man Championship Edition - Main Sprites iOS_134
+    21300270: Mobile - Pac-Man Championship Edition - Main Sprites iOS_135
+    21300272: Mobile - Pac-Man Championship Edition - Main Sprites iOS_136
+    21300274: Mobile - Pac-Man Championship Edition - Main Sprites iOS_137
+    21300276: Mobile - Pac-Man Championship Edition - Main Sprites iOS_138
+    21300278: Mobile - Pac-Man Championship Edition - Main Sprites iOS_139
+    21300280: Mobile - Pac-Man Championship Edition - Main Sprites iOS_140
+    21300282: Mobile - Pac-Man Championship Edition - Main Sprites iOS_141
+    21300284: Mobile - Pac-Man Championship Edition - Main Sprites iOS_142
+    21300286: Mobile - Pac-Man Championship Edition - Main Sprites iOS_143
+    21300288: Mobile - Pac-Man Championship Edition - Main Sprites iOS_144
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 244
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 241
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 242
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 241
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 242
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 229
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 226
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 226
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 209
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 210
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 210
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 196
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 189
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 197
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 179
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 179
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_69
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 177
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 167
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_77
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 167
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_78
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 161
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_81
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 162
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 161
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_90
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 150
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_93
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_94
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_95
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 145
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_98
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 145
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_103
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 135
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_107
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_108
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_109
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_110
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_115
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_116
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_117
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_118
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_119
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_120
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_121
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 113
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_122
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_123
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 113
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 57
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_126
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_128
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_130
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_131
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_132
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 82
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_134
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 97
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_137
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 82
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_138
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_139
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_140
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_142
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_143
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Pac-Man Championship Edition - Main Sprites iOS_144
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
