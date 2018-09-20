@@ -8,8 +8,7 @@ public class Grid : MonoBehaviour {
     private int rows;
     [SerializeField]
     private int cols;
-    [SerializeField]
-    private Vector2 gridSize;
+    public Vector2 gridSize;
     [SerializeField]
     private Vector2 gridOffset;
 

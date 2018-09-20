@@ -14,32 +14,59 @@ public class Game_Manager : MonoBehaviour {
     */
 
     private Sprite[] Sprites;
-    public GameObject Player;
-    private GameObject player;
-    public GameObject PlayerWeapon;
+
+    [SerializeField]
+    private GameObject PlayerPrefab;
+    [HideInInspector]
+    public GameObject player;
+
+    [SerializeField]
+    private GameObject BossPrefab;
+    public Boss currentBoss;
+
+    [SerializeField]
+    private GameObject WeaponPrefab;
     public Weapon currentWeapon;
+
     public Grid g;
+
+    public static Game_Manager gm;
+
+    private void Awake()
+    {
+        gm = this;
+    }
 
     void Start () {
         //Get Sprite Sheet
         Sprites = Resources.LoadAll<Sprite>("Mobile - Pac-Man Championship Edition - Main Sprites iOS");
         
-        //Create Player
+        //Create Player and Boss
         if (g.gridmade == true)
         {
-            player = Instantiate(Player);
-            Platform p = g.FindPlatformById(7);
-            player.transform.parent = g.transform; //Make player a child of the grid
-            player.transform.position = new Vector2(p.Position.x, p.Position.y + (p.Size.y * 2)); //0.6 -> wanted y increase from p's position
+            InitBoss();
+            InitPlayer();
             InitWeapon();
             g.gridmade = false;
         }
-        InvokeRepeating("Shoot", .001f, .5f);
+        InvokeRepeating("Shoot", .001f, .2f);
+    }
+
+    private void Update()
+    {
+        Debug.LogFormat("Direction: {0}", Movement.m.direction);
+        //If Boss is dead
+        if (currentBoss.isDead)
+        {
+            Debug.Log("Boss is dead");
+            //CancelInvoke("Shoot");
+            Time.timeScale = 0; //Pause
+        }
     }
 
     public void Shoot()
     {
-        GameObject p = Instantiate(PlayerWeapon, player.transform.position, Quaternion.identity) as GameObject;
+        GameObject p = Instantiate(WeaponPrefab, player.transform.position, Quaternion.identity) as GameObject;
         //Make the weapon (bullet) a child of the player
         p.transform.parent = player.transform;
     }
@@ -49,7 +76,26 @@ public class Game_Manager : MonoBehaviour {
         //if x weapon equipped then currentWeapon = x
         currentWeapon = new Weapon("Normal Weapon", GetSpriteByName("Mobile - Pac-Man Championship Edition - Main Sprites iOS_64"), 10);
         //Set the weapon object's sprite
-        PlayerWeapon.GetComponent<SpriteRenderer>().sprite = currentWeapon.WeaponSprite;
+        WeaponPrefab.GetComponent<SpriteRenderer>().sprite = currentWeapon.WeaponSprite;
+    }
+
+    public void InitPlayer()
+    {
+        player = Instantiate(PlayerPrefab);
+        Platform p = g.FindPlatformById(7);
+        player.transform.parent = g.transform; //Make player a child of the grid
+        player.transform.position = new Vector2(p.Position.x, p.Position.y + (p.Size.y * 2)); //0.6 -> wanted y increase from p's position
+    }
+
+    public void InitBoss()
+    {
+        GameObject bossPosition = transform.Find("BossPosition").gameObject;
+        currentBoss = new Boss(10000, Resources.Load<Sprite>("Boss")); //Boss consists of (Max health, sprite)
+        //Set the boss object's sprite
+        BossPrefab.GetComponent<SpriteRenderer>().sprite = currentBoss.BossSprite;
+        //Create it in the scene
+        GameObject boss = Instantiate(BossPrefab);
+        boss.transform.position = bossPosition.transform.position;
     }
 
     public Sprite GetSpriteByName(string name)

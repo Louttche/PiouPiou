@@ -2,14 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Boss : MonoBehaviour {
+public class Boss {
 
-    public int Health = 10000;
+    public int MaxHealth;
+    public Sprite BossSprite;
+    public int currentHealth;
+    public bool isDead;
+
+    public Boss(int maxHealth, Sprite bossSprite)
+    {
+        MaxHealth = maxHealth;
+        BossSprite = bossSprite;
+        currentHealth = MaxHealth;
+        isDead = false;
+    }
 
     public void TakeDamage(int dmg)
     {
-        Health -= dmg;
+        currentHealth -= dmg;
 
-        //if health is <= 0 then die
+        if (currentHealth <= 0)
+            isDead = true;
     }
 }
