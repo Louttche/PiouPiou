@@ -25,10 +25,22 @@ public class Grid : MonoBehaviour {
 
     public bool gridmade;
 
-    private List<Platform> platforms = new List<Platform>();
+    //Create empty object as position reference for the boss shooting (from each boss health bar)
+    [HideInInspector]
+    public GameObject BShootPosition;
+
+    [HideInInspector]
+    public List<Platform> platforms = new List<Platform>();
 
     void Start()
     {
+        //Add the boss health objects in the list
+        foreach (Transform child in Game_Manager.gm.BossPrefab.transform)
+        {
+            if (child.tag == "Boss")
+                Game_Manager.gm.bossHealths.Add(child.gameObject);
+        }
+
         gridmade = false;
         OriginalSpriteSize = platformSprite.bounds.size;
         InitPlatforms(); //Initialize all platforms
@@ -67,7 +79,6 @@ public class Grid : MonoBehaviour {
         
         gridOffset.x = -(gridSize.x / 2) + platformSize.x / 2;
         gridOffset.y = -(gridSize.y / 2) + platformSize.y / 2;
-        
 
         //fill the grid with platforms by using Instantiate
         for (int row = 0; row < rows; row++)
@@ -87,6 +98,18 @@ public class Grid : MonoBehaviour {
                 //Add the platform in the list with an id
                 platforms.Add(new Platform(platformID++, pos, OriginalSpriteSize));
             }
+
+            BShootPosition = new GameObject();
+            BShootPosition.name = "Boss shoot position " + (row + 1).ToString();
+
+            Vector2 BHpos = Game_Manager.gm.bossHealths[row].transform.position;
+            BShootPosition.transform.position = new Vector2(BHpos.x, row * platformSize.y + gridOffset.y + transform.position.y + 0.7f);
+
+            //Create Rays for each row to detect player
+            Ray2D r = new Ray2D(BShootPosition.transform.position, Vector2.left);
+            Game_Manager.gm.rays.Add(r);
+
+            Destroy(BShootPosition);
         }
 
         //destroy the object used to instantiate the cells

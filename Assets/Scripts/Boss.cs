@@ -2,26 +2,33 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Boss {
+public class Boss : MonoBehaviour{
 
-    public int MaxHealth;
-    public Sprite BossSprite;
+    [SerializeField]
+    private int MaxHealth = 0;
+    //public Sprite BossSprite;
     public int currentHealth;
-    public bool isDead;
+    private Component[] Boss_Health_Scripts;
 
-    public Boss(int maxHealth, Sprite bossSprite)
+    public void Start()
     {
-        MaxHealth = maxHealth;
-        BossSprite = bossSprite;
+        Boss_Health_Scripts = gameObject.GetComponentsInChildren<Boss_Health>();
+        //BossSprite = bossSprite;
+
+        foreach (Boss_Health bh in Boss_Health_Scripts)
+        {
+            MaxHealth += bh.maxhealth;
+        }
         currentHealth = MaxHealth;
-        isDead = false;
     }
 
-    public void TakeDamage(int dmg)
+    private void Update()
     {
-        currentHealth -= dmg;
-
-        if (currentHealth <= 0)
-            isDead = true;
+        int temp = 0;
+        foreach (Boss_Health bh in Boss_Health_Scripts)
+        {
+            temp += bh.currenthealth;
+        }
+        currentHealth = temp;
     }
 }
